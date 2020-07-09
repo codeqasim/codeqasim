@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-**qaxim/qaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Qasim Hussain** from live from Lahore, Pakistan
 
-Here are some ideas to get you started:
+Here are some ideas to know me more. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on PHPTRAVELS
+- 🌱 I’m currently learning Front-End Development 
+- 👯 I’m looking to collaborate on any project of your dream
+- 🤔 I’m looking for help with ideas and suggestions to learn development 
+- 💬 Ask me about anything you like to know 
+- 📫 How to reach me: whatsapp +923311442244
+- 😄 Facebook : https://www.facebook.com/qaaaaasim
+- ⚡ Do follow or connect me I'm open to suggestions and collaborations. 
+
+Code well stay safe :)
