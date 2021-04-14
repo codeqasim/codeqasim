@@ -10,7 +10,7 @@ Here are some ideas to know me more.
 - 🤔 I’m looking for help with ideas and suggestions to learn development 
 - 💬 Ask me about anything you like to know 
 - 📫 How to reach me: whatsapp +923311442244
-- 😄 Facebook : https://www.facebook.com/qaaaaasim
+- 😄 Facebook : https://www.facebook.com/qasimofficials
 - ⚡ Do follow or connect me I'm open to suggestions and collaborations. 
 
 Code well stay safe :)
