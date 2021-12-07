@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Qasim Hussain** live from Lahore, Pakistan
+My name is **Qasim Hussain** I'm from Lahore, Pakistan
 
 Here are some ideas to know me more. 
 
