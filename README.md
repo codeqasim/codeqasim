@@ -13,4 +13,11 @@ Here are some ideas to know me more.
 - 😄 Facebook : https://www.facebook.com/qasimofficials
 - ⚡ Do follow or connect me I'm open to suggestions and collaborations. 
 
+<br>
+<p align="center"> 
+<a href="https://github.com/codeqasim/">
+<img width="170px" height="24" src="https://profile-counter.glitch.me/codeqasim/count.svg" alt="codeqasim" />
+</a> </p>
+<br>
+
 Code well stay safe :)
