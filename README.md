@@ -1,11 +1,8 @@
-<h1 align="center">Hi. I'm Qasimm 👋</h1>
+<h1 align="center">Hi. I'm Qasim 👋</h1>
                             
 <h4 align="center">Open-Source Developer with PHP MYSQL JS HTML CSS ❤️ <br> & I like working on new ideas</h4>
 
 <p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
-
-
-My name is **Qasim Hussain** I'm from Lahore, Pakistan
 
 Here are some ideas to know me more. 
 
