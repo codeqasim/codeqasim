@@ -2,7 +2,7 @@
                             
 <h4 align="center">Open-Source Developer with PHP MYSQL JS HTML CSS ❤️ <br> & I like working on new ideas</h4>
 
-<p align="center"><a href="https://avipatilweb.ml/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
+<p align="center"><a href="https://qasimhussain.com/"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
 Here are some ideas to know me more. 
 
