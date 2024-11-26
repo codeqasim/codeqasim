@@ -6,10 +6,10 @@
 
 Here are some ideas to know me more. 
 
-- 🔭 I’m currently working on paidlance & marketing cms
+- 🔭 I’m currently working on iata.co travel SaaS portal
 - 🌱 I’m currently learning Front-End Development 
-- 👯 I’m looking to collaborate on any project of your dream
-- 🤔 I’m looking for help with ideas and suggestions to learn development 
+- 👯 I’m looking to collaborate 
+- 🤔 I’m looking so much focused  
 - 💬 Ask me about anything you like to know 
 - 📫 How to reach me: whatsapp +923311442244
 - 😄 Facebook : https://www.facebook.com/qasimcode
