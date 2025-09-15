@@ -16,10 +16,10 @@ Here are some ideas to know me more.
 - ⚡ Do follow or connect me I'm open to suggestions and collaborations. 
 
 <br>
-<p align="center"> 
+<!-- <p align="center"> 
 <a href="https://github.com/codeqasim/">
 <img width="170px" height="24" src="https://profile-counter.glitch.me/codeqasim/count.svg" alt="codeqasim" />
 </a> </p>
-<br>
+<br> -->
 
 Code well stay safe :)
